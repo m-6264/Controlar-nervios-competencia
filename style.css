@@ -1,4 +1,14 @@
-body {
-    background-color: lavenderblush;
+*{
+    margin : 1px;
+    padding: 5px;
+    border: 10px;;
+}
 
+body {
+    background-color:#fdf3fd;
+    color : #000;
+}
+
+.titulo-destaque {
+    color: #aca6ff;
 }
